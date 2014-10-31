@@ -30,7 +30,7 @@ arbeidsgiverens hjemmeadresse
 
 ## 3. Ferie og feriepenger
 
-Ferie: __{{ferie}}__
+- Ferie: __{{ferie}}__
 
 Ellers ferie og feriepenger i henhold til ferieloven.
 
@@ -72,6 +72,8 @@ __{{tariff}}__
 ## 8. Annet
 
 Bedriftens arbeidsreglement som en del av denne avtale og levert arbeidstakeren.
+
+## Underskrift
 
 Sted/dato: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
