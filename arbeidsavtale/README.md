@@ -8,7 +8,7 @@ gpg --decrypt ${name}.json.gpg | \
   pandoc --latex-engine=xelatex -V papersize:"a4paper" -V geometry:margin=1.0in -o kontrakt_${name}.pdf
 ````
 ```` shell
-  lpass show arbeidsavtale-detaljer --notes | \
+lpass show arbeidsavtale-detaljer --notes | \
   mustang -t arbeidskontrakt.md -f json | \
   pandoc --latex-engine=xelatex -V papersize:"a4paper" -V geometry:margin=1.0in -o kontrakt_${name}.pdf
 ````
