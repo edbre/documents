@@ -1,6 +1,7 @@
 # Arbeidsavtale
 
-Mal for supersimplistisk arbeidsavtale.
+De fleste arbeidsavtaler hadde alt for mange feilter å fylle ut, så her er en
+superenkel mal for en enkel arbeidsavtale.
 
 ```` shell
 gpg --decrypt ${name}.json.gpg | \
