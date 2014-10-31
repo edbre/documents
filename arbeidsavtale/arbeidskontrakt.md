@@ -30,7 +30,9 @@ arbeidsgiverens hjemmeadresse
 
 ## 3. Ferie og feriepenger
 
-Ferie og feriepenger i henhold til ferieloven.
+Ferie: {{ferie}}
+
+Ellers ferie og feriepenger i henhold til ferieloven.
 
 ## 4. Oppsigelse
 
@@ -42,7 +44,7 @@ Oppsigelsesfrist i medhold av arbeidsmiljøloven § 15-3.
 
 Lønn og annen godtgjørelse ved tiltredelse i henhold til gjeldende tariffavtale.
 Eventuelt avtalt lønn og godtgjørelse (husk å ta med kost- og nattgodtgjørelse
-og lønnsutbetalingsterminene)
+og lønnsutbetalingsterminene
 
 - Avtalt lønn og godtgjørelse: {{lonn}}
 - Utbetalingsmåte for lønn: {{utbetalingsmaate}}
